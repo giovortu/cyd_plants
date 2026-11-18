@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Pomodori",
+    "id": "3398534",
+    "topic_base": "casaortu/sensors/3398534/"
+  },
+  {
+    "name": "Peperoni",
+    "id": "3398804",
+    "topic_base": "casaortu/sensors/3398804/"
+  },
+  {
+    "name": "Pothos",
+    "id": "3398655",
+    "topic_base": "casaortu/sensors/3398655/"
+  },
+  {
+    "name": "Patate",
+    "id": "2549138",
+    "topic_base": "casaortu/sensors/2549138/"
+  },
+  {
+    "name": "Dieffenbachia",
+    "id": "2548419",
+    "topic_base": "casaortu/sensors/2548419/"
+  }
+]
